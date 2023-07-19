@@ -28,7 +28,7 @@ const beneficiosConteudo = [
 function isElementInViewport(element) {
     const rect = element.getBoundingClientRect();
     const windowHeight = window.innerHeight || document.documentElement.clientHeight;
-    const windowTop = windowHeight * 0.1; // 10% do viewport height
+    const windowTop = windowHeight * 0.5; // 10% do viewport height
     const windowBottom = windowHeight * 0.6; // 60% do viewport height
 
     return (
