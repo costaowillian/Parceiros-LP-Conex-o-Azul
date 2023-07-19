@@ -71,7 +71,7 @@ function handleScroll() {
   }
 
   if (viewportWidth < 900) {
-    scrollTimeout = setTimeout(atualizarVersaoMobile, 50);
+    scrollTimeout = setTimeout(atualizarVersaoMobile, 10);
   } else {
     scrollTimeout = setTimeout(atualizarVersaoWeb, 5);
   }
