@@ -1,26 +1,26 @@
 const beneficiosConteudo = [
     {
-        imgSrc: './_img/afiliação.svg',
+        imgSrc: 'https://mail.conexaoazul.com/blueftp/afiliação.svg',
         texto: 'Afiliação exclusiva e gratuita',
         descricao: 'Faça parte de nossa rede de parceiros e tenha acesso a uma comunidade engajada de profissionais do mercado. Juntos, alcançaremos novos patamares de sucesso.'
     },
     {
-        imgSrc: './_img/comissao.png',
+        imgSrc: 'https://mail.conexaoazul.com/blueftp/comissao.png',
         texto: 'Comissão por cada nova venda',
         descricao: 'Receba comissões atrativas por cada cliente que você indicar e que se tornar um assinante da Conexão Azul. Quanto mais você indicar, mais você ganha!'
     },
     {
-        imgSrc: './_img/suporte.svg',
+        imgSrc: 'https://mail.conexaoazul.com/blueftp/suporte.svg',
         texto: 'Suporte Exclusivo',
         descricao: 'Nossa equipe dedicada de suporte estará sempre pronta para ajudar você e seus clientes, fornecendo orientações, treinamentos e soluções personalizadas. Juntos, enfrentaremos qualquer desafio!'
     },
     {
-        imgSrc: './_img/marca.svg',
+        imgSrc: 'https://mail.conexaoazul.com/blueftp/marca.svg',
         texto: 'Marca Própria (White Label)',
         descricao: 'Leve sua marca para o próximo nível com nossa opção de white label. Personalize a plataforma da Conexão Azul com a sua identidade visual e estabeleça uma presença única no mercado.'
     },
     {
-        imgSrc: './_img/marketing.svg',
+        imgSrc: 'https://mail.conexaoazul.com/blueftp/marketing.svg',
         texto: 'Ferramentas de Marketing',
         descricao: 'Aproveite nossas ferramentas de marketing exclusivas para promover sua parceria e atrair mais clientes. Receba materiais de marketing co-branded e suporte para suas campanhas.'
     },
