@@ -346,6 +346,7 @@ body {
         display: none;
     }
     .beneficios-cards {
+        display: flex;
         gap: 22px;
         width: 37rem
     }
